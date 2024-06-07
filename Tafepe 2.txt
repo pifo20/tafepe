@@ -1,0 +1,109 @@
+Tafepe/𐝁𐀏꘠ (the simplest language)
+TAFEPE DOCUMENTATION VERSION 2
+
+I've been working on a larger language, Sujaliro, for a while now, and while I'm definitely not done making it yet, I recently came up with an interesting idea for a conlang.
+
+What might happen if you make a language where the grammar rules are simply to convey meaning in a way that makes sense, and then just have a list of words that stand for concepts? If you teach it to a group of people, would they eventually form a grammar structure, intentionally or unintentionally?
+
+Anyway, here's that conlang in question. A conlang, basically as simple as can be.
+
+Alphabet
+The alphabet is pretty small, with only 13 letters;
+A: /a/
+B: /b/
+C: /k/
+E: /e/
+F: /f/
+I: /i/
+J: /j/
+L: /l/
+N: /n/
+O: /o/
+P: /p/
+S: /s/
+T: /t/
+
+Example sentences
+Keep in mind, these do not dictate how the language should be spoken! Any sentence that conveys the meaning you want, is correct. This is just how I personally might speak in this conlang.
+
+"Ca si jo ci." ("𐙣 𐘼𖨠𐙥𐦖") ("I see you.")
+"Fo! Ci pa?" ("𖤾! 𐙥꘨") ("Hello! How are you?")
+"Ta sa?" ("𐝁𐘥?") ("Is it nighttime?")
+"Sa lo?" ("𐘥𐚣?") ("Is it raining?")
+"Ci fe." ("𐙥𐀏𐦖") ("You are tall.")
+"Pa, ta sa." ("꘨, 𐝁𐘥")  ("Yes, it's nighttime.")
+"Ce pa." ("ꕕ꘨𐦖") ("Food is good.")
+
+Keyboard
+This is an alphabetical keyboard for Tafepe:
+
+𐙣ꕕ𐙥𐙟𐂊𐀏𐙉𖤾𐙬𖥧
+𖨠ꎍ𖡔𐘳𐚣𐙚𐚜ꘛ𐝃𐘟
+꘨꘠𞠣𐙖𐘥ꔸ𐘼𐙡𐝁𐦁𞠤
+
+Dictionary
+This is the dictionary, with only the concepts defined (since grammar is up to the speaker). There are only 31 words, but they can be combined if the speaker wants.
+
+At the beginning of the entry is a logographical representation of the word, which can make the language easier to understand for people who don't speak it. When using the logographs, a duck [𐦖] should be used at the end if a period would be used.
+
+[𐙣] ca (I, me, my, mine)|
+
+[ꕕ] ce (food, eat)|
+
+[𐙥] ci (you, your, yours)|
+
+[𐙟] ba (nation, group, community)|
+
+[𐂊] be (bug, spider, louse, fly, insect, animal, cat, dog)|
+
+[𐀏] fe (full, big, tall, complete, earth, planet)|
+
+[𐙉] fi (temperature, heat)|
+
+[𖤾] fo (name, called, call, title, hello)|
+
+[𐙬] ja (person, human)|
+
+[𖥧] je (red)|
+
+[𖨠] jo (object, able to be acted on, being acted on)|
+
+[ꎍ] la (white)|
+
+[𖡔] le (do, act)|
+
+[𐘳] li (stone, rock, hard, sharp)|
+
+[𐚣] lo (water, liquid, drink)|
+
+[𐙚] ti (die, death, kill)|
+
+[𐚜] na (tree, leaf, plant)|
+
+[ꘛ] ne (cute, beautiful)|
+
+[𐝃] ni (what, where, who, which, question)|
+
+[𐘟] no (circle, round, sphere)|
+
+[꘨] pa (happy, good, cool, awesome, yes)|
+
+[꘠] pe (language, text, writing)|
+
+[𞠣] pi (one)|
+
+[𐙖] po (hand)|
+
+[𐘥] sa (day, sun, sky, up)|
+
+[ꔸ] se (black)|
+
+[𐘼] si (eye, see, watch, look)|
+
+[𐙡] so (ear, hear, listen)|
+
+[𐝁] ta (opposite, no, lie, fake)|
+
+[𐦁] te (blue)|
+
+[𞠤] to (two, second, secondary)|
